@@ -1,0 +1,15 @@
+{
+  "app.components.LivelyFooter.header": "Đây là thành phần LivelyFooter!",
+  "app.components.LivelyDropdownMenu.header": "Đây là thành phần LivelyDropdownMenu!",
+  "app.components.LivelyHeader.header": "Đây là thành phần LivelyHeader!",
+  "app.components.LivelyHeader.home": "Trang Chủ",
+  "app.components.LivelyHeader.myDashboard": "Bảng điều khiển của tôi",
+  "app.components.LivelyHeader.usefulLinks": "Liên kết hữu ích",
+  "app.components.LivelyHeader.communities": "Cộng đồng",
+  "app.components.LivelyHeader.directory": "Danh mục",
+  "app.containers.AuthBase.header": "Đây là vùng chứa AuthBase!",
+  "app.containers.Community.header": "Đây là vùng chứa Community!",
+  "app.containers.HomePage.header": "Đây là vùng chứa HomePage!",
+  "app.containers.Login.header": "Đây là vùng chứa Login!",
+  "app.containers.NotFoundPage.header": "Đây là vùng chứa NotFoundPage!"
+}

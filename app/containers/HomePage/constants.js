@@ -1,0 +1,27 @@
+/*
+ *
+ * HomePage constants
+ *
+ */
+
+export const GET_CAROUSEL_LIST = 'app/HomePage/GET_CAROUSEL_LIST';
+export const GET_CAROUSEL_LIST_SUCCESS =
+  'app/HomePage/GET_CAROUSEL_LIST_SUCCESS';
+export const GET_CAROUSEL_LIST_ERROR = 'app/HomePage/GET_CAROUSEL_LIST_ERROR';
+export const GET_PINNED_CONTENT = 'app/HomePage/GET_PINNED_CONTENT';
+export const GET_PINNED_CONTENT_SUCCESS =
+  'app/HomePage/GET_PINNED_CONTENT_SUCCESS';
+export const GET_PINNED_CONTENT_ERROR = 'app/HomePage/GET_PINNED_CONTENT_ERROR';
+export const GET_WIDGET_LIST = 'app/HomePage/GET_WIDGET_LIST';
+export const GET_WIDGET_LIST_SUCCESS = 'app/HomePage/GET_WIDGET_LIST_SUCCESS';
+export const GET_WIDGET_LIST_ERROR = 'app/HomePage/GET_WIDGET_LIST_ERROR';
+export const GET_PINNED_COMMUNITY_LIST =
+  'app/HomePage/GET_PINNED_COMMUNITY_LIST';
+export const GET_PINNED_COMMUNITY_LIST_SUCCESS =
+  'app/HomePage/GET_PINNED_COMMUNITY_LIST_SUCCESS';
+export const GET_PINNED_COMMUNITY_LIST_ERROR =
+  'app/HomePage/GET_PINNED_COMMUNITY_LIST_ERROR';
+export const GET_CONTENT = 'app/HomePage/GET_CONTENT';
+export const GET_CONTENT_SUCCESS = 'app/HomePage/GET_CONTENT_SUCCESS';
+export const GET_CONTENT_ERROR = 'app/HomePage/GET_CONTENT_ERROR';
+export const SET_WIDGET_LIST_ORDER = 'app/HomePage/SET_WIDGET_LIST_ORDER';

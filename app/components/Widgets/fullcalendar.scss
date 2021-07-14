@@ -1,0 +1,30 @@
+.fc .fc-cell-shaded,
+.fc .fc-day-disabled {
+  background: unset;
+}
+
+.fc .fc-daygrid-day-number {
+  position: unset;
+}
+
+.fc-theme-standard .fc-scrollgrid {
+  border-style: none;
+}
+
+.fc-theme-standard td,
+.fc-theme-standard th {
+  border-color: #ffffff;
+}
+
+.fc .fc-bg-event {
+  border-radius: 1.5rem;
+  opacity: 1;
+}
+
+.fc .fc-daygrid-day-events {
+  display: none;
+}
+
+.fc .fc-highlight{
+  background: none;
+}

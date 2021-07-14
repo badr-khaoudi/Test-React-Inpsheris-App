@@ -1,0 +1,25 @@
+/*
+ *
+ * Community constants
+ *
+ */
+
+export const GET_COMMUNITY_LIST = 'app/Community/GET_COMMUNITY_LIST';
+export const GET_COMMUNITY_LIST_SUCCESS =
+  'app/Community/GET_COMMUNITY_LIST_SUCCESS';
+export const GET_COMMUNITY_LIST_ERROR =
+  'app/Community/GET_COMMUNITY_LIST_ERROR';
+export const GET_COMMUNITY_GROUP_LIST =
+  'app/Community/GET_COMMUNITY_GROUP_LIST';
+export const GET_COMMUNITY_GROUP_LIST_SUCCESS =
+  'app/Community/GET_COMMUNITY_GROUP_LIST_SUCCESS';
+export const GET_COMMUNITY_GROUP_LIST_ERROR =
+  'app/Community/GET_COMMUNITY_GROUP_LIST_ERROR';
+export const FILTER_COMMUNITY_LIST = 'app/Community/FILTER_COMMUNITY_LIST';
+export const REQUESTED_COMMUNITY = 'app/Community/REQUESTED_COMMUNITY';
+export const REQUESTED_COMMUNITY_SUCCESS =
+  'app/Community/REQUESTED_COMMUNITY_SUCCESS';
+export const REQUESTED_COMMUNITY_ERROR =
+  'app/Community/REQUESTED_COMMUNITY_ERROR';
+export const CLEAN_REQUESTED_COMMUNITY =
+  'app/Community/CLEAN_REQUESTED_COMMUNITY';

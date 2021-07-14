@@ -1,0 +1,34 @@
+.widget-swiper-container {
+  position: relative;
+  margin: 12px 0;
+  .social-wall-prev,
+  .social-wall-next {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    z-index: 10;
+  }
+  .social-wall-prev {
+    left: 12px;
+  }
+  .social-wall-next {
+    right: 12px;
+  }
+  .skeleton-container,
+  .swiper-container {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .swiper-container {
+    padding: 12px 0;
+    .swiper-slide {
+      width: auto;
+      &:first-of-type {
+        padding-left: 56px;
+      }
+      &:last-of-type {
+        padding-right: 56px;
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "app.components.Footer.header": "This is the Footer component!",
+  "app.components.LivelyHeader.header": "Это компонент LivelyHeader!",
+  "app.components.LivelyHeader.home": "Главная",
+  "app.components.LivelyHeader.communities": "Сообщества",
+  "app.components.LivelyHeader.directory": "Каталог",
+  "app.components.LivelyHeader.usefulLinks": "Полезные ссылки",
+  "app.components.LivelyHeader.myDashboard": "Мой Dashboard",
+  "app.components.LivelyDropdownMenu.header": "Это компонент LivelyDropdownMenu!",
+  "app.containers.AuthBase.header": "Это контейнер AuthBase!",
+  "app.containers.Community.header": "Это контейнер Community!",
+  "app.containers.HomePage.header": "Это контейнер HomePage!",
+  "app.containers.Login.header": "Это контейнер Login!",
+  "app.containers.NotFoundPage.header": "Это контейнер NotFoundPage!"
+}

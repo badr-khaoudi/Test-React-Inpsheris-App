@@ -1,0 +1,15 @@
+{
+  "app.components.Footer.header": "This is the Footer component!",
+  "app.components.LivelyDropdownMenu.header": "¡Este es el componente LivelyDropdownMenu!",
+  "app.components.LivelyHeader.communities": "Comunidades",
+  "app.components.LivelyHeader.directory": "Directorio",
+  "app.components.LivelyHeader.usefulLinks": "Enlaces útiles",
+  "app.components.LivelyHeader.header": "¡Este es el componente LivelyHeader!",
+  "app.components.LivelyHeader.home": "Casa",
+  "app.components.LivelyHeader.myDashboard": "Mi tablero",
+  "app.containers.AuthBase.header": "¡Este es el contenedor AuthBase!",
+  "app.containers.Community.header": "¡Este es el contenedor de la comunidad!",
+  "app.containers.HomePage.header": "¡Este es el contenedor de HomePage!",
+  "app.containers.Login.header": "¡Este es el contenedor de Login!",
+  "app.containers.NotFoundPage.header": "¡Este es el contenedor de NotFoundPage!"
+}

@@ -1,0 +1,102 @@
+/*
+ *
+ * AuthBase constants
+ *
+ */
+
+export const CHECK_SESSION = 'app/AuthBase/CHECK_SESSION';
+export const CHECK_SESSION_SUCCESS = 'app/AuthBase/CHECK_SESSION_SUCCESS';
+export const CHECK_SESSION_ERROR = 'app/AuthBase/CHECK_SESSION_ERROR';
+export const GET_LANGUAGE = 'app/AuthBase/GET_LANGUAGE';
+export const GET_LANGUAGE_SUCCESS = 'app/AuthBase/GET_LANGUAGE_SUCCESS';
+export const GET_LANGUAGE_ERROR = 'app/AuthBase/GET_LANGUAGE_ERROR';
+export const GET_CONFIG = 'app/AuthBase/GET_CONFIG';
+export const GET_CONFIG_SUCCESS = 'app/AuthBase/GET_CONFIG_SUCCESS';
+export const GET_CONFIG_ERROR = 'app/AuthBase/GET_CONFIG_ERROR';
+export const GET_CURRENT_USER = 'app/AuthBase/GET_CURRENT_USER';
+export const GET_CURRENT_USER_SUCCESS = 'app/AuthBase/GET_CURRENT_USER_SUCCESS';
+export const GET_CURRENT_USER_ERROR = 'app/AuthBase/GET_CURRENT_USER_ERROR';
+export const CUSTOM_TEMPLATE_LIST = 'app/AuthBase/CUSTOM_TEMPLATE_LIST';
+export const CUSTOM_TEMPLATE_LIST_SUCCESS =
+  'app/AuthBase/CUSTOM_TEMPLATE_LIST_SUCCESS';
+export const CUSTOM_TEMPLATE_LIST_ERROR =
+  'app/AuthBase/CUSTOM_TEMPLATE_LIST_ERROR';
+export const CREATE_QUICK_POST = 'app/AuthBase/CREATE_QUICK_POST';
+export const EDIT_QUICK_POST = 'app/AuthBase/EDIT_QUICK_POST';
+export const CLOSE_QUICK_POST = 'app/AuthBase/CLOSE_QUICK_POST';
+export const CONTENT_CREATION = 'app/AuthBase/CONTENT_CREATION';
+export const CONTENT_EDIT = 'app/AuthBase/CONTENT_EDIT';
+export const CONTENT_CLOSE = 'app/AuthBase/CONTENT_CLOSE';
+export const GET_COMMUNITY_LIST = 'app/AuthBase/GET_COMMUNITY_LIST';
+export const GET_COMMUNITY_LIST_SUCCESS =
+  'app/AuthBase/GET_COMMUNITY_LIST_SUCCESS';
+export const GET_COMMUNITY_LIST_ERROR = 'app/AuthBase/GET_COMMUNITY_LIST_ERROR';
+export const FILTER_COMMUNITY_LIST = 'app/AuthBase/FILTER_COMMUNITY_LIST';
+export const SHARE = 'app/AuthBase/SHARE';
+export const CLOSE_SHARE = 'app/AuthBase/CLOSE_SHARE';
+export const PRIVATE_MESSAGE = 'app/AuthBase/PRIVATE_MESSAGE';
+export const CLOSE_PRIVATE_MESSAGE = 'app/AuthBase/CLOSE_PRIVATE_MESSAGE';
+export const OPEN_FEED_MODAL = 'app/AuthBase/OPEN_FEED_MODAL';
+export const CLOSE_FEED_MODAL = 'app/AuthBase/CLOSE_FEED_MODAL';
+export const OPEN_GALLERY = 'app/AuthBase/OPEN_GALLERY';
+export const CLOSE_GALLERY = 'app/AuthBase/CLOSE_GALLERY';
+export const OPEN_USER_LIKED = 'app/AuthBase/OPEN_USER_LIKED';
+export const CLOSE_USER_LIKED = 'app/AuthBase/CLOSE_USER_LIKED';
+export const OPEN_CREATE_PINNED_COMMUNITY =
+  'app/AuthBase/OPEN_CREATE_PINNED_COMMUNITY';
+export const CLOSE_CREATE_PINNED_COMMUNITY =
+  'app/AuthBase/CLOSE_CREATE_PINNED_COMMUNITY';
+export const OPEN_DIRECTORY_PRIVATE_MESSAGE =
+  'app/AuthBase/OPEN_DIRECTORY_PRIVATE_MESSAGE';
+export const CLOSE_DIRECTORY_PRIVATE_MESSAGE =
+  'app/AuthBase/CLOSE_DIRECTORY_PRIVATE_MESSAGE';
+export const OPEN_STATISTICS = 'app/AuthBase/OPEN_STATISTICS';
+export const CLOSE_STATISTICS = 'app/AuthBase/CLOSE_STATISTICS';
+export const OPEN_DIGEST = 'app/AuthBase/OPEN_DIGEST';
+export const CLOSE_DIGEST = 'app/AuthBase/CLOSE_DIGEST';
+export const CREATE_DIGEST = 'app/AuthBase/CREATE_DIGEST';
+export const EDIT_DIGEST = 'app/AuthBase/EDIT_DIGEST';
+export const CLOSE_CREATE_DIGEST = 'app/AuthBase/CLOSE_CREATE_DIGEST';
+export const OPEN_CAROUSEL_MANAGER = 'app/AuthBase/OPEN_CAROUSEL_MANAGER';
+export const CLOSE_CAROUSEL_MANAGER = 'app/AuthBase/CLOSE_CAROUSEL_MANAGER';
+export const CREATE_CAROUSEL = 'app/AuthBase/CREATE_CAROUSEL';
+export const EDIT_CAROUSEL = 'app/AuthBase/EDIT_CAROUSEL';
+export const CLOSE_CREATE_CAROUSEL = 'app/AuthBase/CLOSE_CREATE_CAROUSEL';
+export const OPEN_WIDGET_MANAGER = 'app/AuthBase/OPEN_WIDGET_MANAGER';
+export const CLOSE_WIDGET_MANAGER = 'app/AuthBase/CLOSE_WIDGET_MANAGER';
+export const CREATE_WIDGET = 'app/AuthBase/CREATE_WIDGET';
+export const EDIT_WIDGET = 'app/AuthBase/EDIT_WIDGET';
+export const CLOSE_CREATE_WIDGET = 'app/AuthBase/CLOSE_CREATE_WIDGET';
+export const OPEN_DOCUMENT_BAR = 'app/AuthBase/OPEN_DOCUMENT_BAR';
+export const CLOSE_DOCUMENT_BAR = 'app/AuthBase/CLOSE_DOCUMENT_BAR';
+export const SURVEY_SUMMARY = 'app/AuthBase/SURVEY_SUMMARY';
+export const SURVEY_SUMMARY_SUCCESS = 'app/AuthBase/SURVEY_SUMMARY_SUCCESS';
+export const SURVEY_SUMMARY_ERROR = 'app/AuthBase/SURVEY_SUMMARY_ERROR';
+export const DOWNLOAD_DOCUMENTS = 'app/AuthBase/DOWNLOAD_DOCUMENTS';
+export const DOWNLOAD_DOCUMENTS_SUCCESS =
+  'app/AuthBase/DOWNLOAD_DOCUMENTS_SUCCESS';
+export const DOWNLOAD_DOCUMENTS_ERROR = 'app/AuthBase/DOWNLOAD_DOCUMENTS_ERROR';
+export const CONTENT = 'app/AuthBase/CONTENT';
+export const CONTENT_SUCCESS = 'app/AuthBase/CONTENT_SUCCESS';
+export const CONTENT_ERROR = 'app/AuthBase/CONTENT_ERROR';
+export const DIGITAL_WORKPLACE_LIST = 'app/AuthBase/DIGITAL_WORKPLACE_LIST';
+export const DIGITAL_WORKPLACE_LIST_SUCCESS =
+  'app/AuthBase/DIGITAL_WORKPLACE_LIST_SUCCESS';
+export const DIGITAL_WORKPLACE_LIST_ERROR =
+  'app/AuthBase/DIGITAL_WORKPLACE_LIST_ERROR';
+export const OPEN_SOCIAL_WALL = 'app/AuthBase/OPEN_SOCIAL_WALL';
+export const CLOSE_SOCIAL_WALL = 'app/AuthBase/CLOSE_SOCIAL_WALL';
+export const CREATE_COMMUNITY = 'app/AuthBase/CREATE_COMMUNITY';
+export const EDIT_COMMUNITY = 'app/AuthBase/EDIT_COMMUNITY';
+export const CLOSE_CREATE_COMMUNITY = 'app/AuthBase/CLOSE_CREATE_COMMUNITY';
+export const EDIT_COMMUNITY_IMAGE = 'app/AuthBase/EDIT_COMMUNITY_IMAGE';
+export const CLOSE_EDIT_COMMUNITY_IMAGE =
+  'app/AuthBase/CLOSE_EDIT_COMMUNITY_IMAGE';
+export const OPEN_LIVELY_TRANSFER = 'app/AuthBase/OPEN_LIVELY_TRANSFER';
+export const CLOSE_LIVELY_TRANSFER = 'app/AuthBase/CLOSE_LIVELY_TRANSFER';
+export const LIVELY_TRANSFER_DOCUMENTS =
+  'app/AuthBase/LIVELY_TRANSFER_DOCUMENTS';
+export const UPDATE_LIVELY_TRANSFER_DOCUMENTS =
+  'app/AuthBase/UPDATE_LIVELY_TRANSFER_DOCUMENTS';
+export const DELETE_LIVELY_TRANSFER_DOCUMENTS =
+  'app/AuthBase/DELETE_LIVELY_TRANSFER_DOCUMENTS';
